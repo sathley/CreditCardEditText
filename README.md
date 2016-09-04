@@ -1,6 +1,8 @@
 CreditCardEditText
 ==================
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CreditCardEditText-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4284)
+
 A very simple custom view based on EditText that lets you validate credit card numbers.
 
 ## USAGE
